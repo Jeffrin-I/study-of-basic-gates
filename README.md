@@ -63,7 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+```
 module Gate_1 (
     input  wire a,     // Input A
     input  wire b,     // Input B
@@ -84,7 +84,7 @@ module Gate_1 (
     assign xnor_out = ~(a ^ b);   
 
 endmodule
-
+```
 
  Developed by: RegisterNumber: 25009198
  
