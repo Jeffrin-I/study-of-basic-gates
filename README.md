@@ -86,7 +86,7 @@ module Gate_1 (
 endmodule
 ```
 
- Developed by:
+ Developed by: Jeffrin.I
  
  RegisterNumber: 25009198
  
